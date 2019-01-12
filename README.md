@@ -10,7 +10,7 @@ Also includes Alfred and Keyboard Maestro implementations that allow you to star
 ## Alfred
 Download the [Record Simulator.alfredworkflow](https://github.com/mono0926/record-ios-simulator/releases/download/1.0.0/Record.Simulator.alfredworkflow) file and open it to add the workflow to Alfred.
 
-![/images/alfred.png](]
+![](images/alfred.png)
 
 ## Keyboard Maestro
 Download the `Record Simulator.kmmacros` file and open it to add the macro to Keyboard Maestro. By default it is triggered using the ⌘R hotkey while the Simulator is focused, but you can tweak this behaviour after adding the macro if desired.
